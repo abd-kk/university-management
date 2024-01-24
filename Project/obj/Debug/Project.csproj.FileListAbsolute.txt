@@ -1,0 +1,11 @@
+C:\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Desktop\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Desktop\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Desktop\Project\Project\obj\Debug\Project.pdb
